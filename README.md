@@ -7,6 +7,12 @@
 
 A base microservice that handles meshing nodezoo microservices to each other.
 
+If you're using this microservice, and need help, you can:
+
+- Post a [github issue][],
+- Tweet to [@nodezoo][],
+- Ask on the [Gitter][gitter-url].
+
 ## Install
 1. clone this repo into a root _/nodezoo_ folder.
 2. run `npm install`
@@ -51,3 +57,6 @@ Licensed under [MIT][].
 [NodeZoo]: http://www.nodezoo.com/
 [NodeZoo org]: https://github.com/nodezoo
 [Logo]: https://raw.githubusercontent.com/nodezoo/nodezoo-org/master/assets/logo-nodezoo.png
+[github issue]: https://github.com/nodezoo/nodezoo-base/issues
+[@senecajs]: http://twitter.com/nodezoo
+[gitter-url]: https://gitter.im/nodezoo/nodezoo-org
