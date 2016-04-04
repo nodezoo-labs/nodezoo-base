@@ -58,5 +58,5 @@ Licensed under [MIT][].
 [NodeZoo org]: https://github.com/nodezoo
 [Logo]: https://raw.githubusercontent.com/nodezoo/nodezoo-org/master/assets/logo-nodezoo.png
 [github issue]: https://github.com/nodezoo/nodezoo-base/issues
-[@senecajs]: http://twitter.com/nodezoo
+[@nodezoo]: http://twitter.com/nodezoo
 [gitter-url]: https://gitter.im/nodezoo/nodezoo-org
