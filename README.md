@@ -7,29 +7,25 @@
 
 A base microservice that handles meshing nodezoo microservices to each other.
 
-## Install
-1. clone this repo into a root _/nodezoo_ folder.
-2. run `npm install`
+If you're using this microservice, and need help, you can:
 
-## Starting
-To start simply run,
+- Post a [github issue][],
+- Tweet to [@nodezoo][],
+- Ask on the [Gitter][gitter-url].
 
-```
-npm run start
-```
+## Running
+This micro-service can be ran as part of the [NodeZoo org][] system. Please follow the
+link below for details on obtaining and running the complete system.
 
-### Tagging and Logs
-To tag your service and set up logs simply pass the relevant switches on start,
+- [Nodezoo: The complete system][System]
 
-```
-npm run start -- --seneca.options.tag=nodezoo_base --seneca.log.all
-```
+## Patterns Handled
 
-## Inbound Messages
-This micro-service emits no inbound messages.
+There are no incoming messages.
 
-## Outbound Messages
-This micro-service emits no outbound messages.
+## Patterns Emitted
+
+There are no outgoing messages.
 
 ## Contributing
 The [NodeZoo org][] encourages __open__ and __safe__ participation.
@@ -51,3 +47,7 @@ Licensed under [MIT][].
 [NodeZoo]: http://www.nodezoo.com/
 [NodeZoo org]: https://github.com/nodezoo
 [Logo]: https://raw.githubusercontent.com/nodezoo/nodezoo-org/master/assets/logo-nodezoo.png
+[github issue]: https://github.com/nodezoo/nodezoo-base/issues
+[@nodezoo]: http://twitter.com/nodezoo
+[gitter-url]: https://gitter.im/nodezoo/nodezoo-org
+[System]: https://github.com/nodezoo/nodezoo-system
