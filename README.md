@@ -13,29 +13,19 @@ If you're using this microservice, and need help, you can:
 - Tweet to [@nodezoo][],
 - Ask on the [Gitter][gitter-url].
 
-## Install
-1. clone this repo into a root _/nodezoo_ folder.
-2. run `npm install`
+## Running
+This micro-service can be ran as part of the [NodeZoo org][] system. Please follow the
+link below for details on obtaining and running the complete system.
 
-## Starting
-To start simply run,
+- [Nodezoo: The complete system][System]
 
-```
-npm run start
-```
+## Patterns Handled
 
-### Tagging and Logs
-To tag your service and set up logs simply pass the relevant switches on start,
+There are no incoming messages.
 
-```
-npm run start -- --seneca.options.tag=nodezoo_base --seneca.log.all
-```
+## Patterns Emitted
 
-## Inbound Messages
-This micro-service emits no inbound messages.
-
-## Outbound Messages
-This micro-service emits no outbound messages.
+There are no outgoing messages.
 
 ## Contributing
 The [NodeZoo org][] encourages __open__ and __safe__ participation.
@@ -60,3 +50,4 @@ Licensed under [MIT][].
 [github issue]: https://github.com/nodezoo/nodezoo-base/issues
 [@nodezoo]: http://twitter.com/nodezoo
 [gitter-url]: https://gitter.im/nodezoo/nodezoo-org
+[System]: https://github.com/nodezoo/nodezoo-system
