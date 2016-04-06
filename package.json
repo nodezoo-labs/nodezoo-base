@@ -9,7 +9,8 @@
   ],
   "main": "metrics.js",
   "scripts": {
-    "start": "node -r toolbag srv/dev.js"
+    "start": "node -r toolbag srv/dev.js",
+    "lint": "lab test -dL"
   },
   "homepage": "https://github.com/nodezoo/nodezoo-stats#readme",
   "bugs": {
