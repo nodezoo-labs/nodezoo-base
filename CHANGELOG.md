@@ -1,7 +1,7 @@
-Pending - x.x.x
+7 April - 7.0.0
 ---
 * Added CHANGELOG.md
-* Changed base-dev.js to start.js to be consistent with other nodezoo microservices and updated Dockerfile and package.
+* **BREAKING** Changed base-dev.js to start.js for consistency.
 
 6 April 2016 - 6.0.0
  ---
