@@ -1,3 +1,7 @@
+##Pending - x.x.x
+
+* toolbag removed.
+
 ## 7 April - 7.0.0
 
 * Added CHANGELOG.md
