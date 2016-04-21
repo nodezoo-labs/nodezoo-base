@@ -11,7 +11,8 @@
   "main": "metrics.js",
   "scripts": {
     "start": "node srv/start.js",
-    "lint": "lab test -dL"
+    "lint": "lab test -dL",
+    "test": "lab -v -P test -L -c -t 0"
   },
   "homepage": "https://github.com/nodezoo/nodezoo-stats#readme",
   "bugs": {
