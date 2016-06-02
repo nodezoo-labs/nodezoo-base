@@ -9,7 +9,8 @@ var opts = {
     tag: envs.BASE_TAG || 'nodezoo-base'
   },
   mesh: {
-    base: true
+    base: true,
+    host: envs.BASE_HOST
   }
 }
 
