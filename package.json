@@ -14,7 +14,7 @@
     "lint": "lab test -dL",
     "test": "lab -v -P test -L -c -t 0"
   },
-  "homepage": "https://github.com/nodezoo/nodezoo-stats#readme",
+  "homepage": "https://github.com/nodezoo/nodezoo-base#readme",
   "bugs": {
     "url": "https://github.com/nodezoo/nodezoo-base/issues"
   },
@@ -22,6 +22,13 @@
     "type": "git",
     "url": "git+https://github.com/nodezoo/nodezoo-base.git"
   },
+  "files": [
+    "README.md",
+    "package.json",
+    "LICENSE",
+    "srv",
+    "Dockerfile"
+  ],
   "keywords": [
     "nodezoo",
     "metrics",
