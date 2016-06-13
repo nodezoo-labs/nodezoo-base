@@ -12,7 +12,7 @@
   "scripts": {
     "start": "node srv/start.js",
     "lint": "lab test -dL",
-    "test": "lab -v -P test -L -c -t 0"
+    "test": "echo 'No test'"
   },
   "homepage": "https://github.com/nodezoo/nodezoo-base#readme",
   "bugs": {
