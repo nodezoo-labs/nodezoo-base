@@ -12,7 +12,7 @@
   "scripts": {
     "start": "node srv/start.js",
     "lint": "lab test -dL",
-    "test": "lab -v -P test -L -c -t 0"
+    "test": "echo 'No test'"
   },
   "homepage": "https://github.com/nodezoo/nodezoo-base#readme",
   "bugs": {
@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "code": "2.1.0",
-    "eslint-config-seneca": "1.1.2",
+    "eslint-config-seneca": "2.0.0",
     "eslint-plugin-hapi": "4.0.0",
     "eslint-plugin-standard": "1.3.1",
     "lab": "8.2.0"
